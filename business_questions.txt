@@ -1,0 +1,21 @@
+Q1: Where should Contos locate their new store?
+Modelling profitability at a store level can help assess which factors have the greatest impact on revenue, allowing you to look for locations with similar attributes to those stores which are most successful.
+
+Q2:3. What impacts sales throughout the year?
+Econometric models gather as much data as possible on factors which impact sales across a given time period, commonly a year. For example, ATL and BTL marketing spend, major marketing campaigns, weather trends, major cultural events and product launches.
+
+Plotting this data at a daily resolution against revenue can reveal what impacts revenue most. You may end up surprised – and if you’re surprised, you can change tack knowing you’ll get incremental gains.
+
+Q3:Which product should I market to my customer?
+it takes a customer’s purchase history, and recommends products bought by other customer’s with similar purchase histories. Recommendations account for 35% of Amazon’s revenue, the company that popularised collaborative filtering. It’s worth investing in getting it right.
+
+
+Q4:What are the most efficient actions we can take to reduce returns?
+
+Are we decreasing our average days to ship for new customer orders?
+
+Q5:Which products should we cut marketing spend on because we will sell through the item without the paid exposure?
+Q6:Once you consider all costs including returns, which marketing initiatives, promotions and customer segments are the most profitable?
+
+Q7:Which first-purchase brands lead to lifetime customers?
+
